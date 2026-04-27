@@ -52,7 +52,7 @@ print(f"정렬된 수치: {recipe_list}")
 
 print(f"\n--- 시스템 최종 판정 ---")
 if security_level >= 3:
-        if recipe_total >= 500:
+    if recipe_total >= 500:
         print("결과: [고급 레시피 복원 성공] 인류의 기억이 1% 회복되었습니다.")
       
         if recipe_list[-1] > 300:
