@@ -81,8 +81,11 @@
     * **해결:** `if문 바로 아랫줄은 반드시 키보드의 Tab 키나 Space 4번을 눌러서 '이 코드는 내 구역이야!'라고 표시해줘야 한다는 규칙을 적용하여 수정함.
      
 ### **📁 증빙 자료:**
-  * [2차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
-  * [2차과제_실행결과.jpg]
+  * [60232229조재휴 AI 협업 자료.pdf](https://github.com/user-attachments/files/27122756/60232229.AI.pdf)
+
+    <img width="1920" height="1080" alt="스크린샷(7)" src="https://github.com/user-attachments/assets/0a0c02d5-107f-45b4-ac17-65b303962574" />
+
+
 <br>
 
 ## 🟨 [3차 과제: V3.0] 무한 루프와 메뉴 시스템 (반복문) - 향후 작성 예정
@@ -101,7 +104,7 @@
      
 ### **📁 증빙 자료:**
   * [3차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
-  * <img width="1920" height="1080" alt="스크린샷(1)" src="https://github.com/user-attachments/assets/3bf706e9-ce51-4858-a0e4-ccbc5b484a7a" />
+  * 
 
 <br>
 
