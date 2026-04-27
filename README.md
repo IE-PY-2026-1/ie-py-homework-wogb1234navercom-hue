@@ -101,7 +101,8 @@
      
 ### **📁 증빙 자료:**
   * [3차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
-  * [3차과제_실행결과.jpg]
+  * <img width="1920" height="1080" alt="스크린샷(1)" src="https://github.com/user-attachments/assets/3bf706e9-ce51-4858-a0e4-ccbc5b484a7a" />
+
 <br>
 
 ### 🟥 [4차 과제: V4.0] 모듈화 및 데이터 확장 (배열과 함수) - 🌟최종 완성 -- 향후 작성 예정
